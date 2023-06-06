@@ -1,0 +1,1 @@
+Using keyboard we can handle our project. when you press 's' the boat will stop and pressing 'a' will start moving again. When we press 'x' the boat will rotate 180deg and stop moving and pressing 'c' will back to last position. To shit the view to night we have to press 'n' and to back day mode press 'd'.
